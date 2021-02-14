@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/body_Parsing.iml" filepath="$PROJECT_DIR$/.idea/body_Parsing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../inplace_abn/.idea/inplace_abn.iml" filepath="$PROJECT_DIR$/../inplace_abn/.idea/inplace_abn.iml" />
     </modules>
   </component>
 </project>
