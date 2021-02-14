@@ -1,4 +1,4 @@
-from .deeplab import DeeplabV3
+from .bn import ABN, InPlaceABN, InPlaceABNWrapper, InPlaceABNSync, InPlaceABNSyncWrapper
+from .misc import GlobalAvgPool2d
+from .residual import IdentityResidualBlock
 from .dense import DenseModule
-from .misc import GlobalAvgPool2d, SingleGPU
-from .residual import IdentityResidualBlock, ResidualBlock

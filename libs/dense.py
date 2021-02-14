@@ -3,7 +3,7 @@ from collections import OrderedDict
 import torch
 import torch.nn as nn
 
-from inplace_abn import ABN
+from .bn import ABN
 
 
 class DenseModule(nn.Module):
