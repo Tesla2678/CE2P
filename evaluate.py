@@ -10,7 +10,7 @@ import torchvision.transforms as transforms
 from utils.miou import compute_mean_ioU
 from copy import deepcopy
 
-DATA_DIRECTORY = '/ssd1/liuting14/Dataset/LIP/'
+DATA_DIRECTORY = './dataset/LIP/'
 DATA_LIST_PATH = './dataset/list/lip/valList.txt'
 IGNORE_LABEL = 255
 NUM_CLASSES = 20
